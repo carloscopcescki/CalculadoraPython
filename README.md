@@ -1,4 +1,4 @@
-# Calculadora Python
+# Calculadora Simples
 
 # Sobre o projeto
 
